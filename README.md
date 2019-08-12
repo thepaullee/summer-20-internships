@@ -6,10 +6,10 @@ There's plenty of other lists that are maintained but I thought I would start on
 
 I try to keep this up to date both for my own search and to help others but please feel free to contribute!
 
-To contribute:
-| 1. Fork this repo
-| 2. Edit README.md, following the format in the table
-| 3. Open a PR 
+#### To contribute:
+> 1. Fork this repo
+> 2. Edit README.md, following the format in the table
+> 3. Open a PR 
 
 ## The Internships 
 
