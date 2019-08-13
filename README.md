@@ -29,3 +29,4 @@ Check out these other great repos too :)
 |[Twitch](https://boards.greenhouse.io/twitch/jobs/4387419002)|San Francisco, CA| SWE|
 |[Morgan Stanley (US)](https://morganstanley.tal.net/vx/lang-en-us/mobile-0/brand-2/xf-88b1eb77da85/candidate/so/pm/1/pl/1/opp/8319/apply/en-us])|New York, NY| Engineering, Data Analytics| Morgan Stanley Montreal also posts internships every 4 months (Fall,Winter,Summer)
 |[Github](https://internships.github.com/)|San Francisco, CA|
+|[Shopify](https://www.shopify.com/careers/interns)|Toronto, ON; Montreal, QC; Ottawa, ON; Waterloo, ON| SWE, FED, BED, UX, + more| Postings for Fall, Winter, Summer go live 4 months prior
